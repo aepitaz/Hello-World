@@ -1,2 +1,4 @@
 # Hello-World
-A Sample Project
+This is beyond a sample project and a quick tutorial on how to use Git.....
+
+
